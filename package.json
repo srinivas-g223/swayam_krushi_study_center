@@ -1,0 +1,1 @@
+{"name":"swayam-krushi-study-centre","version":"1.0.0","private":true,"description":"Swayam Krushi Study Centre single page website","scripts":{"dev":"node server.js","start":"node server.js"}}
